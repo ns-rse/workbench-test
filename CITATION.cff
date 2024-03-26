@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Workbench test # FIXME
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Neil' # FIXME
+    family-names: 'Shephard' # FIXME
+    email: 'n.shephard@sheffield.ac.uk' # FIXME
+    affiliation: University of Sheffield
+    orcid: 'https://orcid.org/0000-0001-8301-6857' # FIXME
+repository-code: 'https://github.com/ns-rse/workbench-test' # FIXME
+url: 'https://ns-rse.github.io/workbench-test' # FIXME
+abstract: >-
+  This is a test of setting up a workbench using the University of Sheffield patches and varnish.
+keywords: # FIXME
+  - carpentries
+  - fair4rs
+  - university of sheffield
+license: CC-BY-4.0
